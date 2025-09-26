@@ -1,0 +1,5 @@
+{
+  "name": "Employee Leave Management System",
+  "description": "A comprehensive leave management system for employees and administrators, featuring AI-powered assistance for communication. Employees can request leave and view their history, while admins can manage requests and view team-wide analytics.",
+  "requestFramePermissions": []
+}
